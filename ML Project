@@ -1,0 +1,29 @@
+Car-Price-ML-Project/
+
+│
+├── data/
+│      car.csv
+│
+├── notebooks/
+│      EDA.ipynb
+│
+├── src/
+│      data_cleaning.py
+│      model.py
+│      train.py
+│
+├── outputs/
+│      confusion_matrix.png
+│      feature_importance.png
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── main.py
+
+
+
+
+
+
